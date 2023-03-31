@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpadeKtlsg
+- 👋 Hi, I’m @Wenxing Cao
 - 👀 I’m interested in galgame,Hearts of Irons 4, Civilization 6,EU 4 and so on.
 - 🌱 I’m currently learning Python,C,C++
 - 💞️ I’m looking to collaborate on how to sleep well in a noisy dorm : (
