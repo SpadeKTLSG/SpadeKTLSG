@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wenxing Cao
 - 👀 I’m interested in galgame,Hearts of Irons 4, Civilization 6,EU 4 and so on.
 - 🌱 I’m currently learning Python,C,C++
-- 💞️ I’m looking to collaborate on how to sleep well in a noisy dorm : (
-- 📫 How to reach me go to Hebei
+- 💞️ I’m looking to upgrade my java level
+- 📫 How to reach me go to Hebei University
 
 <!---
 SpadeKtlsg/SpadeKtlsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
