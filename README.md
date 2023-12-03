@@ -1,4 +1,4 @@
-## SpadeKtlsg
+## SpadeKTLSG
 ```called "SpadeKXRMP" / "TLSG" / "SpadeKX_TLSG" also```
 
 >"舞台是世界, 梦想还是大一点比较好吧"
