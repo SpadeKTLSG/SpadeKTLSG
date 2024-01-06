@@ -1,5 +1,5 @@
 ## SpadeKTLSG
-```called "SpadeKXRMP" / "TLSG" / "SpadeKX_TLSG" also```
+```called "SpadeKXRMP" / "SpadeKX_TLSG" also```
 
 >"舞台是世界, 梦想还是大一点比较好吧"
 
@@ -7,7 +7,7 @@
 
 一般通过生徒 / 流浪予定
 
- --最终选择在GalGame, Anime, Vocaload, ParadoxGames, Coding中度过了百无聊赖的大学生活
+ --最终在电子鸦片与无限制内卷战中度过了百无聊赖的大学生活
 
 
 ## Stats
