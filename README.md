@@ -1,16 +1,15 @@
-## SpadeKTLSG
-```called "SpadeKXRMP" / "SpadeKX_TLSG" also```
+## SpadeKTLSG 玄桃K
+```called "SpadeKXRMP" / "玄桃K" also```
 
 >"舞台是世界, 梦想还是大一点比较好吧"
 
->"平静的生活, 结束了"
+>最终在电子鸦片与无限制内卷战中度过了百无聊赖的大学生活
 
-一般通过生徒 / 流浪予定
-
- --最终在电子鸦片与无限制内卷战中度过了百无聊赖的大学生活
 
 
 ## Stats
+
+>在打复活赛
 
 <a href="https://github.com/SpadeKtlsg">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpadeKtlsg&show_icons=true&include_all_commits=true" />
