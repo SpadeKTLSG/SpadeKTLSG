@@ -16,7 +16,7 @@
 
    
 ## Languages and Tools
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiko233&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpadeKTLSG&layout=compact&bg_color=ffffff&title_color=FF1958&theme=swift&exclude_repo=kernel_xiaomi_odin,subconverter-meta)
 
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SpadeKtlsg alt=SpadeKtlsg /> </p>
