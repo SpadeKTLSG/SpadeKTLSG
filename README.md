@@ -1,5 +1,4 @@
 ## SpadeKTLSG 玄桃K
-```called "SpadeKXRMP" / "玄桃K" also```
 
 >"舞台是世界, 梦想还是大一点比较好吧"
 
@@ -9,7 +8,7 @@
 
 ## Stats
 
->在打复活赛
+>我从地狱回来了
 
 <a href="https://github.com/SpadeKtlsg">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpadeKtlsg&show_icons=true&include_all_commits=true" />
