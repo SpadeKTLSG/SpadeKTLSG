@@ -4,7 +4,7 @@
 
 > 从裕华西路走到雨花西路, 金陵耐烧王他回来了  traveled from Yuhuaxilu to Yuhuaxilu, the so called "Gold Tomb Boiling King" come back to life
 
-> 大意失荆州之后挥毫而就春招十胜论, 目前已开始工作...  Write a self-decisive poem named "Ten Argument for Win in Spring Recruitment" after his most tragic lose for 3 job offer in just one day, got a backend software job after all...
+> 大意失荆州之后挥毫而就对于个人有决定意义的"春招十胜论", 但最终已开始工作...  Write a self-decisive poem named "Ten Argument targets at Winning in Spring Recruitment" after his most tragic lose for 3 Offer in just 1 day, got a backend software job after all...
 
 
 ## Stats
